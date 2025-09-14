@@ -65,3 +65,4 @@ By default the app runs on **http://localhost:5173**
 - **State management** (e.g. Redux)
 - **Optimization of components** — use `useContext`, `useMemo`, `useCallback`
 - **Styling** — either create own CSS or implement a UI library
+- **Error handling** - gracefully handle error (API errors, field validation, etc.)
